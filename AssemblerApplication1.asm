@@ -2,7 +2,7 @@
 ;
 ; Created: 25/03/2025 13:53:55
 ; Author : aluno
-;
+; Faça um programa que configure a PORTB como entrada, e leia o valor de PORTB. Faça esse valor + 15 e mostre em PORTD.
 
 
 ; Replace with your application code

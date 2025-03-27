@@ -3,7 +3,8 @@
 ;
 ; Created: 27/03/2025 14:21:13
 ; Author : aluno
-;
+; Faça B = A2 + 2*A. O valor de A está na port D. Mostre B na Port B.
+
 
 .dseg 
 var:

@@ -3,7 +3,7 @@
 ;
 ; Created: 27/03/2025 14:21:13
 ; Author : aluno
-;
+; Considere que a = 2356 e b=3628. Faça C = a+b. Mostre C nas portas D e B. A parte alta em portD e a parte baixa na port B.
 
 .dseg 
 var:
